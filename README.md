@@ -23,8 +23,8 @@ me know if you have any questions!
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Preplanning of Project: <br/>
+<img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/b7fdcb80-8215-4dc0-97c4-d26252a353cb" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
