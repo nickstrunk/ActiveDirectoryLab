@@ -44,15 +44,15 @@ Set Up IP Addressing: <br/>
 <br />
 <br />
 Renamed PC:  <br/>
-<img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/d73f7998-b974-4930-93da-c0924a72847d" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/d73f7998-b974-4930-93da-c0924a72847d" height="80%" width="80%" alt="Renamed PC"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Select Active Directory Domain Services:  <br/>
+<img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/992cf44d-2003-4ae6-b778-55c4ca89a56f" height="80%" width="80%" alt="Active Directory Domain Services"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create Domain:  <br/>
+<img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/5841c385-451f-447b-8257-d5eb68e15366" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
