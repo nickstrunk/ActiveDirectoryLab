@@ -64,6 +64,13 @@ Install Remote Access (RAS) / Network Address Translation (NAT):  <br/>
 <br />
 <br />
 <img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/f9a5a277-eed3-4f0b-a910-b9d3a66766a1" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Set up NAT:  <br/>
+* Tools > Routing and Remote Access > Right Click server > Configure and Enable Routing and Remote Access
+<br />
+<br />
+<img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/51ad4262-d969-40cd-a5ee-3fbc3afac37b" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
