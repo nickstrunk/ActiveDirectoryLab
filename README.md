@@ -55,8 +55,15 @@ Create Domain:  <br/>
 <img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/5841c385-451f-447b-8257-d5eb68e15366" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create Personal Admin Account:  <br/>
+<img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/13161bca-9353-450c-85c7-693e3ad11b70" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Install Remote Access (RAS) / Network Address Translation (NAT):  <br/>
+* Allow Windows 10 client to be on private virtual network, but still be able to access the Internet through the domain controller.
+<br />
+<br />
+<img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/f9a5a277-eed3-4f0b-a910-b9d3a66766a1" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
