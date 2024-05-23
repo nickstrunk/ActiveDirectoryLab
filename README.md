@@ -58,12 +58,12 @@ Select Active Directory Domain Services:  <br/>
 <br />
 
 Create Domain:  <br/>
-<img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/5841c385-451f-447b-8257-d5eb68e15366" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/5841c385-451f-447b-8257-d5eb68e15366" height="80%" width="80%" alt="Create Domain"/>
 <br />
 <br />
 
 Create Personal Admin Account:  <br/>
-<img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/13161bca-9353-450c-85c7-693e3ad11b70" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/13161bca-9353-450c-85c7-693e3ad11b70" height="80%" width="80%" alt="Personal Admin Account"/>
 <br />
 <br />
 
@@ -71,7 +71,7 @@ Install Remote Access (RAS) / Network Address Translation (NAT):  <br/>
 * Allow Windows 10 client to be on private virtual network, but still be able to access the Internet through the domain controller.
 <br />
 <br />
-<img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/f9a5a277-eed3-4f0b-a910-b9d3a66766a1" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/f9a5a277-eed3-4f0b-a910-b9d3a66766a1" height="80%" width="80%" alt="Remote Access (RAS) and Network Address Translation (NAT)"/>
 <br />
 <br />
 
@@ -79,9 +79,18 @@ Set up NAT:  <br/>
 * Tools > Routing and Remote Access > Right Click server > Configure and Enable Routing and Remote Access
 <br />
 <br />
-<img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/51ad4262-d969-40cd-a5ee-3fbc3afac37b" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/51ad4262-d969-40cd-a5ee-3fbc3afac37b" height="80%" width="80%" alt="Setting up NAT"/>
 <br />
 <br />
+
+Set up DHCP Server:  <br/>
+* Allowing Windows 10 clients to get an IP address that will let them communicate on and browse the Internet, even while on internal private network
+<br />
+<br />
+<img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/51ad4262-d969-40cd-a5ee-3fbc3afac37b" height="80%" width="80%" alt="Setting up NAT"/>
+<br />
+<br />
+
 Timestamp: 26:30
 <br />
 <br />
