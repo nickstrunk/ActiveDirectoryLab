@@ -79,15 +79,15 @@ Set up NAT:  <br/>
 * Tools > Routing and Remote Access > Right Click server > Configure and Enable Routing and Remote Access
 <br />
 <br />
-<img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/51ad4262-d969-40cd-a5ee-3fbc3afac37b" height="80%" width="80%" alt="Setting up NAT"/>
+<img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/51ad4262-d969-40cd-a5ee-3fbc3afac37b" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
-Set up DHCP Server:  <br/>
-* Allowing Windows 10 clients to get an IP address that will let them communicate on and browse the Internet, even while on internal private network
+Set up DHCP Server  <br/>
+* Allow our Windows 10 clients to get an IP address that will let them communicate on and browse the internet, while on the private internal network
 <br />
 <br />
-<img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/51ad4262-d969-40cd-a5ee-3fbc3afac37b" height="80%" width="80%" alt="Setting up NAT"/>
+<img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/4db30ddd-a14c-4035-a9eb-b2b1b7772ea8" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
