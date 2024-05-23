@@ -84,13 +84,19 @@ Set up NAT:  <br/>
 <br />
 
 Set up DHCP Server  <br/>
-* Allow our Windows 10 clients to get an IP address that will let them communicate on and browse the internet, while on the private internal network
+* Allow our Windows 10 clients to automatically get an IP address that will let them communicate on and browse the internet, while on the private internal network
 <br />
 <br />
 <img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/4db30ddd-a14c-4035-a9eb-b2b1b7772ea8" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
+Set DHCP Scope  <br/>
+<br />
+<br />
+<img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/4db30ddd-a14c-4035-a9eb-b2b1b7772ea8" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 Timestamp: 26:30
 <br />
 <br />
