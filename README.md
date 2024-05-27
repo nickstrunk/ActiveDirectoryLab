@@ -120,7 +120,7 @@ Run the Script <br />
 <img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/50d45561-d96e-460a-84ef-4a5a49faeeb5" height="80%" width="80%" alt="Users Created from Script"/>
 <br />
 <br />
-Time Stamp 44:05
+Time Stamp 45:41
 </p>
 
 <!--
