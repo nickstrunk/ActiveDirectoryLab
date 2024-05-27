@@ -79,7 +79,7 @@ Set up NAT:  <br/>
 * Tools > Routing and Remote Access > Right Click server > Configure and Enable Routing and Remote Access
 <br />
 <br />
-<img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/51ad4262-d969-40cd-a5ee-3fbc3afac37b" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/51ad4262-d969-40cd-a5ee-3fbc3afac37b" height="80%" width="80%" alt="NAT Setup"/>
 <br />
 <br />
 
@@ -87,14 +87,15 @@ Set up DHCP Server  <br/>
 * Allow our Windows 10 clients to automatically get an IP address that will let them communicate on and browse the internet, while on the private internal network
 <br />
 <br />
-<img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/4db30ddd-a14c-4035-a9eb-b2b1b7772ea8" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/4db30ddd-a14c-4035-a9eb-b2b1b7772ea8" height="80%" width="80%" alt="DHCP Server Set Up"/>
 <br />
 <br />
 
 Set DHCP Scope  <br/>
 <br />
 <br />
-<img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/4db30ddd-a14c-4035-a9eb-b2b1b7772ea8" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/bcd3ffed-28be-4dde-8bd5-494eb8a4afc0" height="80%" width="80%" alt="DHCP Scope"/>
+<img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/41fb3c3b-e9c2-48d4-b51d-ef1869dfb3ec" height="80%" width="80%" alt="DHCP Scope Planning"/>
 <br />
 <br />
 Timestamp: 26:30
