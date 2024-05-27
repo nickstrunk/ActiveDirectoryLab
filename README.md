@@ -98,7 +98,7 @@ Set DHCP Scope  <br/>
 <img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/41fb3c3b-e9c2-48d4-b51d-ef1869dfb3ec" height="80%" width="80%" alt="DHCP Scope Planning"/>
 <br />
 <br />
-Timestamp: 26:30
+Timestamp: 28:17
 <br />
 <br />
 </p>
