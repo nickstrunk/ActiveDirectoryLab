@@ -96,6 +96,7 @@ Set DHCP Scope  <br/>
 <br />
 <img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/bcd3ffed-28be-4dde-8bd5-494eb8a4afc0" height="80%" width="80%" alt="DHCP Scope"/>
 <img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/41fb3c3b-e9c2-48d4-b51d-ef1869dfb3ec" height="80%" width="80%" alt="DHCP Scope Planning"/>
+<img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/12711950-9b29-44c0-a1e6-22f1e70eb32b" height="80%" width="80%" alt="DHCP Scope Set"/>
 <br />
 <br />
 Timestamp: 28:17
