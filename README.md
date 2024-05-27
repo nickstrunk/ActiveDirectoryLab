@@ -99,9 +99,28 @@ Set DHCP Scope  <br/>
 <img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/12711950-9b29-44c0-a1e6-22f1e70eb32b" height="80%" width="80%" alt="DHCP Scope Set"/>
 <br />
 <br />
-Timestamp: 31:22
+
+Add Our Name to List of Generated Names   <br/>
+* Use this file to create all of the users <br />
+<br />
+Open Windows PowerShell ISE as Administrator <br />
+<br />
+Open Create Users Script <br />
+<br />
+Set-ExecutionPolicy Unrestricted <br />
+* Yes to All <br />
+* Allow exection of all scripts on the server (bad practice on production evironment) <br />
+<br />
+Navigate to Directory Where Script is Stored <br />
+<br />
+Run the Script <br />
+* Run Once <br />
+<br />
+Users Created from Script <br />
+<img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/50d45561-d96e-460a-84ef-4a5a49faeeb5" height="80%" width="80%" alt="Users Created from Script"/>
 <br />
 <br />
+Time Stamp 44:05
 </p>
 
 <!--
