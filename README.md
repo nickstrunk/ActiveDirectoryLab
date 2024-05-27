@@ -99,7 +99,7 @@ Set DHCP Scope  <br/>
 <img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/12711950-9b29-44c0-a1e6-22f1e70eb32b" height="80%" width="80%" alt="DHCP Scope Set"/>
 <br />
 <br />
-Timestamp: 28:17
+Timestamp: 31:22
 <br />
 <br />
 </p>
