@@ -40,7 +40,7 @@ me know if you have any questions!
 <br />
 * No default gateway because the domain controller serves as the default gateway
 <br />
-* Active directory automatically installs DNS, so there server will use itself as the DNS server. Can use either its own IP address (172.16.0.1) or loopback address (127.0.0.1)
+* Active directory automatically installs DNS, so the server will use itself as the DNS server. Can use either its own IP address (172.16.0.1) or loopback address (127.0.0.1)
 <br />
 <br />
 <img src="https://github.com/nickstrunk/ActiveDirectoryLab/assets/165805194/1914bbad-8393-437e-ad44-ef71e65595b2" height="80%" width="80%" alt="Internal Addressing"/>
